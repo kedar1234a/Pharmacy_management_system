@@ -319,7 +319,6 @@
                     <button class="action-button" onclick="downloadBill(<%= b.getId() %>)">
                         <i class="fas fa-download me-1"></i> Download
                     </button>
-Action
                 </td>
             </tr>
             <% 
